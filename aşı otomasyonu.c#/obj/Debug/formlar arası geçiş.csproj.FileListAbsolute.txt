@@ -1,0 +1,78 @@
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csprojAssemblyReference.cache
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csprojAssemblyReference.cache
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\WİN8\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csprojAssemblyReference.cache
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\Zeki SUCU\Desktop\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\Hp\Downloads\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csprojAssemblyReference.cache
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\WİN8\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.AssemblyReference.cache
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\MELİKE\Desktop\aşı otomasyonu\Yeni klasör (2)\Yeni klasör (2)\formlar arası geçiş şifre gizli1\formlar arası geçiş\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
